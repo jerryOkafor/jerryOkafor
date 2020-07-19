@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m a passionate software engineer with a knack for delivering high quality, maintainable and scalable software product in time. Currently I work for @velatech and consulting for @mintfintech - building awesome products together with my team. I read, follow and write on all things tech especailly mobile application development and Machine Learning.
+- 🔭 I’m a passionate software engineer with a knack for delivering high quality, maintainable and scalable software product in time. Currently I work for @velatech and consulting for @mintfintech - building awesome products together with my team. I read, follow and write on all things tech especially mobile application development and Machine Learning.
 
-- 🌱 I’m currently learning Artificail Intelligence an Machine Leanning, currely completing a Deep Learning Nanodegree at Udacity - first step to quenching my thirst for a career in Machine Learning.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning, presently, I am  completing a Deep Learning Nanodegree at Udacity - first step to quenching my thirst for a career in Machine Learning.
 
 - 👯 I’m looking to collaborate on projects that explores the applications of Machine Learning to mobile devices

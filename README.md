@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I am exploring Jetpack Compose, learing how it integrates with other Jetpack Components. The goal is to build more scalable and maintainable apps with Compose.
+- 🔭 I am exploring Jetpack Compose, learning how it integrates with other Jetpack Components. The goal is to build more scalable and maintainable apps with Compose.
 
 - 🌱 Currently learning Artificial Intelligence and Machine Learning, presently, I have completed a Deep Learning Nanodegree on Udacity - first step to quenching my thirst for a career in Machine Learning.
 

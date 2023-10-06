@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 - 👯 Open to collaboration on projects that explore the applications of Machine Learning to mobile devices
 
 
+![Jerrys's github stats](https://github-readme-stats.vercel.app/api?username=jerryOkafor&theme=dracula&show_icons=true&count_private=true)
+
+
 [For more info, visit my website here](https://jerryokafor.web.app/)

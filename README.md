@@ -55,7 +55,7 @@
 [For more projects, pleas check here](https://github.com/jerryOkafor?tab=repositories)
 
 ## ✍️ Blog & Writing
-Aprt from coding, I also read and write about varity of things focused on tech, career growth and living a good life. You can find my articles on my website [jerryokafor.com](jhttps://jerryokafor.com) as well as my Medium page.
+Aprt from coding, I also read and write about varity of things focused on tech, career growth and living a good life. You can find my articles on my website [jerryokafor.com](jhttps://jerryokafor.com) as well as my [Medium page](https://jerryokafor.medium.com/)
 
 ## 📞 Contact Me
-Find me over on the [Twitter(X)](https://x.com/Nomns0) or visit my [website](https://jerryokafor.web.app/)
+[Find me over on Twitter(X)](https://x.com/Nomns0) or [visit my website](https://jerryokafor.web.app/)

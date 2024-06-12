@@ -18,8 +18,11 @@
 <img height="137px" src="https://jok-stats.vercel.app/api/top-langs?username=jerryOkafor&theme=dracula&show_icons=true&langs_count=8&hide=html,php,jupyter%20notebook&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 </p>
+
  <!-- About section -->
+
 ## 🚀 About me
+
 - 🔭 Senior Softwware Engineer, Machine Learning and Artificial Intelligence enthusiast based in Canada.  I craft captivating software solutions, wielding the best practices and riding the cutting-edge waves of the industry. 🚀✨
 
 - 🌱 Currently I am building [SMShare - KMP](https://github.com/jerryOkafor/SMShare) with Kotlin Multiplatform (KMP), [Ihenkiri - Movie App](https://github.com/jerryOkafor/IheNkiri) with Kotlin Android and [URLShortener](https://github.com/jerryOkafor/URLShortener)  with Python (Django).

@@ -14,7 +14,7 @@
 
  <!-- About section -->
 <a href="https://jerryokafor.com/">
-<img height="137px" src="https://jok-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://jok-stats.vercel.app/api/top-langs?username=jerryOkafor&theme=dracula&show_icons=true&langs_count=8&hide=html,php,jupyter%20notebook&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://jok-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" /><img height="137px" src="https://jok-stats.vercel.app/api/top-langs?username=jerryOkafor&theme=dracula&show_icons=true&langs_count=8&hide=html,php,jupyter%20notebook&layout=compact&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&count_private=true&theme=dacula" />
 </a>
 
 ## 🚀 About me
@@ -26,6 +26,7 @@
 
 
 ##🛠 Tech Stack
+
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,7 +53,9 @@
 [For more projects, pleas check here](https://github.com/jerryOkafor?tab=repositories)
 
 ## ✍️ Blog & Writing
+
 Aprt from coding, I also read and write about varity of things focused on tech, career growth and living a good life. You can find my articles on my website [jerryokafor.com](jhttps://jerryokafor.com) as well as my Medium page.
 
 ##📞 Contact Me
+
 Find me over on the [Twitter(X)](https://x.com/Nomns0) or visit my [website](https://jerryokafor.web.app/)

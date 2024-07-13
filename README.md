@@ -46,7 +46,7 @@
 
 <!--More: https://github.com/Ileriayo/markdown-badges-->
 
-## Projects (In Progress)
+## 🚧 Projects (In Progress)
 
 - [SMShare - KMP](https://github.com/jerryOkafor/SMShare) - Built with Kotlin Mutiplatform (KMP) and Compose targeting `Android`, `iOS` and `Desktop`.
 - [Ihenkiri - Movie App](https://github.com/jerryOkafor/IheNkiri) - Demonstrates lates in Android app development using tools and Libararies such as Jetpack Compose, Room, Dagger/Hilt, Retrofit, WorkManager, DataStore, Kotlin Coroutine  with good UI and Unit test coverage and more.
